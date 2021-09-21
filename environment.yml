@@ -9,18 +9,20 @@ dependencies:
   - attrs=21.2.0=pyhd3eb1b0_0
   - backcall=0.2.0=pyhd3eb1b0_0
   - bleach=4.0.0=pyhd3eb1b0_0
-  - ca-certificates=2021.7.5=hecd8cb5_1
-  - certifi=2021.5.30=py39hecd8cb5_0
+  - ca-certificates=2021.5.30=h033912b_0
+  - certifi=2021.5.30=py39h6e9494a_0
   - cffi=1.14.6=py39h2125817_0
   - debugpy=1.4.1=py39h23ab428_0
   - decorator=5.0.9=pyhd3eb1b0_0
   - defusedxml=0.7.1=pyhd3eb1b0_0
   - entrypoints=0.3=py39hecd8cb5_0
+  - greenlet=1.1.1=py39h9fcab8e_0
   - icu=58.2=h0a44026_3
   - importlib-metadata=4.8.1=py39hecd8cb5_0
   - importlib_metadata=4.8.1=hd3eb1b0_0
   - ipykernel=6.2.0=py39hecd8cb5_1
   - ipython=7.27.0=py39h01d92e1_0
+  - ipython-sql=0.3.9=py39hde42818_1002
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
   - ipywidgets=7.6.3=pyhd3eb1b0_1
   - jedi=0.18.0=py39hecd8cb5_1
@@ -46,13 +48,14 @@ dependencies:
   - ncurses=6.2=h0a44026_1
   - nest-asyncio=1.5.1=pyhd3eb1b0_0
   - notebook=6.4.3=py39hecd8cb5_0
-  - openssl=1.1.1l=h9ed2024_0
+  - openssl=1.1.1l=h0d85af4_0
   - packaging=21.0=pyhd3eb1b0_0
   - pandocfilters=1.4.3=py39hecd8cb5_1
   - parso=0.8.2=pyhd3eb1b0_0
   - pexpect=4.8.0=pyhd3eb1b0_3
   - pickleshare=0.7.5=pyhd3eb1b0_1003
   - pip=21.2.4=py37hecd8cb5_0
+  - prettytable=2.2.0=pyhd8ed1ab_0
   - prometheus_client=0.11.0=pyhd3eb1b0_0
   - prompt-toolkit=3.0.17=pyhca03da5_0
   - prompt_toolkit=3.0.17=hd3eb1b0_0
@@ -64,6 +67,7 @@ dependencies:
   - pyrsistent=0.18.0=py39h9ed2024_0
   - python=3.9.7=h88f2d9e_1
   - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.9=2_cp39
   - pyzmq=22.2.1=py39h23ab428_1
   - qt=5.9.7=h468cd18_1
   - qtconsole=5.1.0=pyhd3eb1b0_0
@@ -73,7 +77,9 @@ dependencies:
   - setuptools=58.0.4=py39hecd8cb5_0
   - sip=4.19.13=py39h23ab428_0
   - six=1.16.0=pyhd3eb1b0_0
+  - sqlalchemy=1.4.23=py39h89e85a6_0
   - sqlite=3.36.0=hce871da_0
+  - sqlparse=0.4.2=pyhd8ed1ab_0
   - terminado=0.9.4=py39hecd8cb5_0
   - testpath=0.5.0=pyhd3eb1b0_0
   - tk=8.6.10=hb0a8c7a_0
