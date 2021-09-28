@@ -1,0 +1,3 @@
+[submodule "JupyterNotebookLogger"]
+	path = JupyterNotebookLogger
+	url = https://github.com/julianpistorius/JupyterNotebookLogger.git
